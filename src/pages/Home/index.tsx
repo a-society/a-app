@@ -1,5 +1,5 @@
 import React from 'react';
-import landingPageBg from '../assets/landing-page-bg.png';
+import landingPageBg from '../../assets/landing-page-bg.png';
 
 function Home() {
   return (
